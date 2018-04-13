@@ -1,0 +1,5 @@
+# 忽略 secret.yml
+secret.yml
+
+# 忽略所有副檔名是 tmp 的檔案
+*.tmp
